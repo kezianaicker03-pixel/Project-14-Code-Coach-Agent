@@ -1,0 +1,53 @@
+{
+  "tool": "Google AI Studio",
+  "os": null,
+  "python_version": null,
+  "current_step": 0,
+  "checklist": {
+    "C0": "unverified",
+    "C1": "unverified",
+    "C2": "unverified",
+    "C3": "unverified",
+    "C4": "unverified",
+    "C5": "unverified",
+    "C6": "unverified",
+    "C7": "unverified",
+    "C8": "unverified",
+    "C9": "unverified",
+    "C10": "unverified"
+  },
+  "hint_level": 1,
+  "questions": {
+    "Q1": "pending",
+    "Q2": "pending",
+    "Q3": "pending",
+    "Q4": "pending",
+    "Q5": "pending",
+    "Q6": "pending",
+    "Q7": "pending",
+    "Q8": "pending",
+    "Q9": "pending",
+    "Q10": "pending",
+    "Q11": "pending",
+    "Q12": "pending",
+    "Q13": "pending",
+    "Q14": "pending"
+  },
+  "wrong_answers": {
+    "Q1": 0,
+    "Q2": 0,
+    "Q3": 0,
+    "Q4": 0,
+    "Q5": 0,
+    "Q6": 0,
+    "Q7": 0,
+    "Q8": 0,
+    "Q9": 0,
+    "Q10": 0,
+    "Q11": 0,
+    "Q12": 0,
+    "Q13": 0,
+    "Q14": 0
+  },
+  "assisted_steps": []
+}

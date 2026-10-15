@@ -1,0 +1,7 @@
+{
+  "name": "H9loop Code Coach — Version 2",
+  "description": "AI agent coach for H9loop Code Lab (Project 14, Scenario 2) in Build Target B: Google AI Studio Paste-Back Mode with live simulator, 14-scenario tester, and verified progress tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
